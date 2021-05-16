@@ -1,0 +1,670 @@
+{
+  "events": [
+    {
+      "type": "concert",
+      "id": 5234752,
+      "datetime_utc": "2021-08-11T08:30:00",
+      "venue": {
+        "state": "SD",
+        "name_v2": "Swiftel Center",
+        "postal_code": "57006",
+        "name": "Swiftel Center",
+        "links": [],
+        "timezone": "America/Chicago",
+        "url": "https://seatgeek.com/venues/swiftel-center/tickets",
+        "score": 0.604752,
+        "location": {
+          "lat": 44.3114,
+          "lon": -96.7984
+        },
+        "address": "824 32nd Avenue",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 3,
+        "city": "Brookings",
+        "slug": "swiftel-center",
+        "extended_address": "Brookings, SD 57006",
+        "id": 1510,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 725,
+        "capacity": 6500,
+        "display_location": "Brookings, SD"
+      },
+      "datetime_tbd": true,
+      "performers": [
+        {
+          "type": "band",
+          "name": "Willie Nelson",
+          "image": "https://seatgeek.com/images/performers-landscape/willie-nelson-965e12/108/15654/huge.jpg",
+          "id": 108,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/willie-nelson-965e12/108/15654/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 13
+          },
+          "taxonomies": [
+            {
+              "id": 2000000,
+              "name": "concerts",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": "Rick Kern / WireImage / Getty Images",
+          "url": "https://seatgeek.com/willie-nelson-tickets",
+          "score": 0.54,
+          "slug": "willie-nelson",
+          "home_venue_id": null,
+          "short_name": "Willie Nelson",
+          "num_upcoming_events": 13,
+          "colors": null,
+          "image_license": "rightsmanaged",
+          "genres": [
+            {
+              "id": 450,
+              "name": "Country",
+              "slug": "country",
+              "primary": true,
+              "images": {
+                "1200x525": "https://seatgeek.com/images/performers-landscape/kenny-chesney-eaa591/87/1200x525.jpg",
+                "1200x627": "https://seatgeek.com/images/performers-landscape/kenny-chesney-eeaf7d/87/1200x627.jpg",
+                "136x136": "https://seatgeek.com/images/performers-landscape/kenny-chesney-1e56c2/87/136x136.jpg",
+                "500_700": "https://seatgeek.com/images/performers-landscape/kenny-chesney-d164ca/87/500_700.jpg",
+                "800x320": "https://seatgeek.com/images/performers-landscape/kenny-chesney-3e6b8b/87/800x320.jpg",
+                "banner": "https://seatgeek.com/images/performers-landscape/kenny-chesney-a1592d/87/banner.jpg",
+                "block": "https://seatgeek.com/images/performers-landscape/kenny-chesney-be001d/87/block.jpg",
+                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/kenny-chesney-8f3212/87/criteo_130_160.jpg",
+                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/kenny-chesney-0a8bf2/87/criteo_170_235.jpg",
+                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/kenny-chesney-1cda17/87/criteo_205_100.jpg",
+                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/kenny-chesney-04c973/87/criteo_400_300.jpg",
+                "fb_100x72": "https://seatgeek.com/images/performers-landscape/kenny-chesney-ea77af/87/fb_100x72.jpg",
+                "fb_600_315": "https://seatgeek.com/images/performers-landscape/kenny-chesney-1ccfb0/87/fb_600_315.jpg",
+                "huge": "https://seatgeek.com/images/performers-landscape/kenny-chesney-613242/87/huge.jpg",
+                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/kenny-chesney-62232b/87/ipad_event_modal.jpg",
+                "ipad_header": "https://seatgeek.com/images/performers-landscape/kenny-chesney-2e97ef/87/ipad_header.jpg",
+                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/kenny-chesney-0bfce5/87/ipad_mini_explore.jpg",
+                "mongo": "https://seatgeek.com/images/performers-landscape/kenny-chesney-eb4553/87/mongo.jpg",
+                "square_mid": "https://seatgeek.com/images/performers-landscape/kenny-chesney-e78978/87/square_mid.jpg",
+                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/kenny-chesney-e59ab1/87/triggit_fb_ad.jpg"
+              },
+              "image": "https://seatgeek.com/images/performers-landscape/kenny-chesney-613242/87/huge.jpg",
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              }
+            },
+            {
+              "id": 456,
+              "name": "Rock",
+              "slug": "rock",
+              "primary": false,
+              "images": {
+                "1200x525": "https://seatgeek.com/images/performers-landscape/jenny-lewis-0b661f/70/1200x525.jpg",
+                "1200x627": "https://seatgeek.com/images/performers-landscape/jenny-lewis-09b9f3/70/1200x627.jpg",
+                "136x136": "https://seatgeek.com/images/performers-landscape/jenny-lewis-90f791/70/136x136.jpg",
+                "500_700": "https://seatgeek.com/images/performers-landscape/jenny-lewis-73ebf2/70/500_700.jpg",
+                "800x320": "https://seatgeek.com/images/performers-landscape/jenny-lewis-d2e5d4/70/800x320.jpg",
+                "banner": "https://seatgeek.com/images/performers-landscape/jenny-lewis-2234da/70/banner.jpg",
+                "block": "https://seatgeek.com/images/performers-landscape/jenny-lewis-fd64fb/70/block.jpg",
+                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/jenny-lewis-514d1b/70/criteo_130_160.jpg",
+                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/jenny-lewis-4c4d78/70/criteo_170_235.jpg",
+                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/jenny-lewis-c07401/70/criteo_205_100.jpg",
+                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/jenny-lewis-1b62b1/70/criteo_400_300.jpg",
+                "fb_100x72": "https://seatgeek.com/images/performers-landscape/jenny-lewis-a8d4c7/70/fb_100x72.jpg",
+                "fb_600_315": "https://seatgeek.com/images/performers-landscape/jenny-lewis-ea04da/70/fb_600_315.jpg",
+                "huge": "https://seatgeek.com/images/performers-landscape/jenny-lewis-a22ac5/70/huge.jpg",
+                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/jenny-lewis-b2cfe9/70/ipad_event_modal.jpg",
+                "ipad_header": "https://seatgeek.com/images/performers-landscape/jenny-lewis-868f2f/70/ipad_header.jpg",
+                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/jenny-lewis-429093/70/ipad_mini_explore.jpg",
+                "mongo": "https://seatgeek.com/images/performers-landscape/jenny-lewis-ca05bf/70/mongo.jpg",
+                "square_mid": "https://seatgeek.com/images/performers-landscape/jenny-lewis-d4f86f/70/square_mid.jpg",
+                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/jenny-lewis-75f6e5/70/triggit_fb_ad.jpg"
+              },
+              "image": "https://seatgeek.com/images/performers-landscape/jenny-lewis-a22ac5/70/huge.jpg",
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              }
+            },
+            {
+              "id": 467,
+              "name": "Folk",
+              "slug": "folk",
+              "primary": false,
+              "images": {
+                "1200x525": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-ea3408/2395/1200x525.jpg",
+                "1200x627": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-48a7dd/2395/1200x627.jpg",
+                "136x136": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-79df18/2395/136x136.jpg",
+                "500_700": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-29d68e/2395/500_700.jpg",
+                "800x320": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-1d830f/2395/800x320.jpg",
+                "banner": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-2a6b45/2395/banner.jpg",
+                "block": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-7a17a2/2395/block.jpg",
+                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-15d328/2395/criteo_130_160.jpg",
+                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-459637/2395/criteo_170_235.jpg",
+                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-34279c/2395/criteo_205_100.jpg",
+                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-269365/2395/criteo_400_300.jpg",
+                "fb_100x72": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-ed4371/2395/fb_100x72.jpg",
+                "fb_600_315": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-08b186/2395/fb_600_315.jpg",
+                "huge": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-15639d/2395/huge.jpg",
+                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-d07854/2395/ipad_event_modal.jpg",
+                "ipad_header": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-c727fd/2395/ipad_header.jpg",
+                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-b18586/2395/ipad_mini_explore.jpg",
+                "mongo": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-65295d/2395/mongo.jpg",
+                "square_mid": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-a1af87/2395/square_mid.jpg",
+                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-c04bfa/2395/triggit_fb_ad.jpg"
+              },
+              "image": "https://seatgeek.com/images/performers-landscape/gregory-alan-isakov-15639d/2395/huge.jpg",
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              }
+            }
+          ],
+          "popularity": 0,
+          "location": null
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2021-08-11T03:30:00",
+      "time_tbd": true,
+      "short_title": "Willie Nelson",
+      "visible_until_utc": "2021-08-12T05:00:00",
+      "stats": {
+        "listing_count": 1,
+        "average_price": 60,
+        "lowest_price_good_deals": null,
+        "lowest_price": 60,
+        "highest_price": 60,
+        "visible_listing_count": 1,
+        "dq_bucket_counts": null,
+        "median_price": 60,
+        "lowest_sg_base_price": 50,
+        "lowest_sg_base_price_good_deals": null
+      },
+      "taxonomies": [
+        {
+          "id": 2000000,
+          "name": "concert",
+          "parent_id": null,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/willie-nelson-tickets/brookings-south-dakota-swiftel-center-2021-08-11-3-30-am/concert/5234752",
+      "score": 0.5,
+      "announce_date": "2020-03-10T00:00:00",
+      "created_at": "2020-03-10T16:02:35",
+      "date_tbd": true,
+      "title": "Willie Nelson",
+      "popularity": 0.557,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "theater",
+      "id": 5386390,
+      "datetime_utc": "2021-10-03T01:00:00",
+      "venue": {
+        "state": "SD",
+        "name_v2": "Swiftel Center",
+        "postal_code": "57006",
+        "name": "Swiftel Center",
+        "links": [],
+        "timezone": "America/Chicago",
+        "url": "https://seatgeek.com/venues/swiftel-center/tickets",
+        "score": 0.604752,
+        "location": {
+          "lat": 44.3114,
+          "lon": -96.7984
+        },
+        "address": "824 32nd Avenue",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 3,
+        "city": "Brookings",
+        "slug": "swiftel-center",
+        "extended_address": "Brookings, SD 57006",
+        "id": 1510,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 725,
+        "capacity": 6500,
+        "display_location": "Brookings, SD"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "theater",
+          "name": "The Price Is Right Live",
+          "image": "https://seatgeek.com/images/performers-landscape/the-price-is-right-live-e15267/16522/huge.jpg",
+          "id": 16522,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/the-price-is-right-live-e15267/16522/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 58
+          },
+          "taxonomies": [
+            {
+              "id": 3000000,
+              "name": "theater",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/the-price-is-right-live-tickets",
+          "score": 0.45,
+          "slug": "the-price-is-right-live",
+          "home_venue_id": null,
+          "short_name": "The Price Is Right Live",
+          "num_upcoming_events": 58,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "location": null
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2021-10-02T20:00:00",
+      "time_tbd": false,
+      "short_title": "The Price Is Right Live - Brookings",
+      "visible_until_utc": "2021-10-03T05:00:00",
+      "stats": {
+        "listing_count": 168,
+        "average_price": 114,
+        "lowest_price_good_deals": null,
+        "lowest_price": 79,
+        "highest_price": 200,
+        "visible_listing_count": 151,
+        "dq_bucket_counts": null,
+        "median_price": 122,
+        "lowest_sg_base_price": 56,
+        "lowest_sg_base_price_good_deals": null
+      },
+      "taxonomies": [
+        {
+          "id": 3000000,
+          "name": "theater",
+          "parent_id": null,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/the-price-is-right-live-brookings-tickets/theater/2021-10-02-8-pm/5386390",
+      "score": 0.467,
+      "announce_date": "2021-04-13T00:00:00",
+      "created_at": "2021-04-13T18:59:23",
+      "date_tbd": false,
+      "title": "The Price Is Right Live - Brookings",
+      "popularity": 0.479,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "hockey",
+      "id": 4912169,
+      "datetime_utc": "2022-03-12T09:30:00",
+      "venue": {
+        "state": "SK",
+        "name_v2": "Credit Union iPlex",
+        "postal_code": "S9H 5A8",
+        "name": "Credit Union iPlex",
+        "links": [],
+        "timezone": "America/Swift_Current",
+        "url": "https://seatgeek.com/venues/credit-union-iplex/tickets",
+        "score": 0,
+        "location": {
+          "lat": 50.2863,
+          "lon": -107.772
+        },
+        "address": "2001 Chaplin St E",
+        "country": "Canada",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 1,
+        "city": "Swift Current",
+        "slug": "credit-union-iplex",
+        "extended_address": "Swift Current, Canada",
+        "id": 16510,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 0,
+        "capacity": 0,
+        "display_location": "Swift Current, Canada"
+      },
+      "datetime_tbd": true,
+      "performers": [
+        {
+          "type": "hockey",
+          "name": "Swift Current Broncos",
+          "image": "https://seatgeek.com/images/performers-landscape/generic-hockey-a10094/677200/32403/huge.jpg",
+          "id": 31465,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/generic-hockey-a10094/677200/32403/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 1
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1040000,
+              "name": "hockey",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/swift-current-broncos-tickets",
+          "score": 0.37,
+          "slug": "swift-current-broncos",
+          "home_venue_id": null,
+          "short_name": "Swift Current Broncos",
+          "num_upcoming_events": 1,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "home_team": true,
+          "location": null
+        },
+        {
+          "type": "hockey",
+          "name": "Red Deer Rebels",
+          "image": "https://seatgeek.com/images/performers-landscape/generic-hockey-a10094/677200/32403/huge.jpg",
+          "id": 31464,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/generic-hockey-a10094/677200/32403/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 1
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1040000,
+              "name": "hockey",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/red-deer-rebels-tickets",
+          "score": 0.39,
+          "slug": "red-deer-rebels",
+          "home_venue_id": null,
+          "short_name": "Red Deer Rebels",
+          "num_upcoming_events": 1,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "away_team": true,
+          "location": null
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2022-03-12T03:30:00",
+      "time_tbd": true,
+      "short_title": "Red Deer Rebels at Swift Current Broncos",
+      "visible_until_utc": "2022-03-13T06:00:00",
+      "stats": {
+        "listing_count": null,
+        "average_price": null,
+        "lowest_price_good_deals": null,
+        "lowest_price": null,
+        "highest_price": null,
+        "visible_listing_count": null,
+        "dq_bucket_counts": null,
+        "median_price": null,
+        "lowest_sg_base_price": null,
+        "lowest_sg_base_price_good_deals": null
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1040000,
+          "name": "hockey",
+          "parent_id": 1000000,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/red-deer-rebels-at-swift-current-broncos-tickets/hockey/2022-03-12-3-30-am/4912169",
+      "score": 0,
+      "announce_date": "2019-06-28T00:00:00",
+      "created_at": "2019-06-28T16:00:12",
+      "date_tbd": true,
+      "title": "Red Deer Rebels at Swift Current Broncos",
+      "popularity": 0,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "wrestling",
+      "id": 5373265,
+      "datetime_utc": "2022-03-14T08:30:00",
+      "venue": {
+        "state": "SD",
+        "name_v2": "Swiftel Center",
+        "postal_code": "57006",
+        "name": "Swiftel Center",
+        "links": [],
+        "timezone": "America/Chicago",
+        "url": "https://seatgeek.com/venues/swiftel-center/tickets",
+        "score": 0.604752,
+        "location": {
+          "lat": 44.3114,
+          "lon": -96.7984
+        },
+        "address": "824 32nd Avenue",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 3,
+        "city": "Brookings",
+        "slug": "swiftel-center",
+        "extended_address": "Brookings, SD 57006",
+        "id": 1510,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 725,
+        "capacity": 6500,
+        "display_location": "Brookings, SD"
+      },
+      "datetime_tbd": true,
+      "performers": [
+        {
+          "type": "wrestling",
+          "name": "Swdca Youth Wrestling",
+          "image": "https://seatgeek.com/images/performers-landscape/swdca-youth-wrestling-5d58d1/793204/huge.jpg",
+          "id": 793204,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/swdca-youth-wrestling-5d58d1/793204/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 1
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1080000,
+              "name": "fighting",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1080300,
+              "name": "wrestling",
+              "parent_id": 1080000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/145739041@N05/47579674162/in/photolist-2fusgtG-j5qdvF-2ebdfna-2ebdfLg-t6HTU-RNGPWF-2fusgrN-2ebdfjp-4VXVRF-rhT51i-QbB3pa-2et7T21-78mJs3-RNGPaR-dUfhoU-RNGP4i-RNGP7p-2ebdgg4-RNGP74-2fz7EkH-RNGP2K-2fushpj-2fz7Ejv-RNGP5R-2et7UEm-RNGP24-2fush5G-2ebdgot-2ebdgqH-2fusg7E-RNGPQi-2ebdf94-2fz7F2n-2fz7EZD-RNGPYV-VRTzCX-RNGQjV-RNGQee-2fusgwN-24Xw7LF-2fz7EKF-2fz7EKk-2et7V6G-2fushh5-RNGPJr-2et7V8A-2fushhA-2et7UZj-RNGRUt-2fz7Hce",
+          "url": "https://seatgeek.com/swdca-youth-wrestling-tickets",
+          "score": 0,
+          "slug": "swdca-youth-wrestling",
+          "home_venue_id": null,
+          "short_name": "Swdca Youth Wrestling",
+          "num_upcoming_events": 1,
+          "colors": null,
+          "image_license": "https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich",
+          "popularity": 0,
+          "location": null
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2022-03-14T03:30:00",
+      "time_tbd": true,
+      "short_title": "SDWCA Youth Wrestling",
+      "visible_until_utc": "2022-03-15T05:00:00",
+      "stats": {
+        "listing_count": null,
+        "average_price": null,
+        "lowest_price_good_deals": null,
+        "lowest_price": null,
+        "highest_price": null,
+        "visible_listing_count": null,
+        "dq_bucket_counts": null,
+        "median_price": null,
+        "lowest_sg_base_price": null,
+        "lowest_sg_base_price_good_deals": null
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1080000,
+          "name": "fighting",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1080300,
+          "name": "wrestling",
+          "parent_id": 1080000,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/sdwca-youth-wrestling-tickets/wrestling/2022-03-14-3-30-am/5373265",
+      "score": 0.394,
+      "announce_date": "2021-03-02T00:00:00",
+      "created_at": "2021-03-02T16:00:08",
+      "date_tbd": true,
+      "title": "SDWCA Youth Wrestling",
+      "popularity": 0.411,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    }
+  ],
+  "meta": {
+    "total": 4,
+    "took": 3,
+    "page": 1,
+    "per_page": 10,
+    "geolocation": null
+  },
+  "in_hand": {}
+}
